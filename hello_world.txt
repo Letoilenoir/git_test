@@ -1,3 +1,6 @@
 Re initiated the Odin project Foundation course
+05.01.2024 resumed course after installing Virtualbox/Xubuntu
+Python also installed along wirth Vurtual Studio 2022 & Virtual Studio Code on host computer (Windows 11)
 GIT basics revisited 12:59 27/01
+VS Code re-instaalled on VM
 Continuing course with VS code
